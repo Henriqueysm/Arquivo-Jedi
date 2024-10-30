@@ -15,7 +15,7 @@ Você pode acessar o site através deste [link](https://henriqueysm.github.io/Ar
 Abaixo estão algumas imagens mostrando o interior do site:
 
 ### Página Inicial
-![Página Inicial](Arquivo-Jedi/Imagens do site/1 pagina inicial.jpg)
+![Página Inicial](.imagens-do-site/1-pagina-inicial.jpg)
 
 
 ### Curiosidades 
