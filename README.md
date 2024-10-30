@@ -15,11 +15,11 @@ Você pode acessar o site através deste [link](https://henriqueysm.github.io/Ar
 Abaixo estão algumas imagens mostrando o interior do site:
 
 ### Página Inicial
-![Página Inicial](Imagens do site/1 pagina inicial.jpg)
+![Página Inicial(Imagens do site/1 pagina inicial.jpg)
 
 
 ### Curiosidades 
-![Seção de Curiosidades](Arquivo-Jedi/Imagens do site/2 curiosidades.jpg)
+![Seção de Curiosidades](![image](https://github.com/user-attachments/assets/85ce6da7-97ee-4859-a236-642246bf79a5))
 
 
 ### A Saga prt1
