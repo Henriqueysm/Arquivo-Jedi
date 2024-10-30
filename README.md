@@ -18,28 +18,28 @@ Abaixo estão algumas imagens mostrando o interior do site:
 ![Página Inicial](./imagens/1.jpg)
 
 ### Curiosidades 
-
+![Curiosidades ](./imagens/2.jpg)
 
 ### A Saga prt1
-
+![Saga prt1 ](./imagens/3.jpg)
 ### A Saga prt2
-
+![Saga prt2 ](./imagens/4.jpg)
 ### A Saga prt3
-
+![Saga prt3 ](./imagens/5.jpg)
 ### A Saga prt4
-
+![Saga prt4 ](./imagens/6.jpg)
 
 ### Seção de Cronologia
-
+![Cronologia](./imagens/7.jpg)
 
 ### Galeria de Personagens
-
+![Personagens](./imagens/8.jpg)
 
 ### Sabres 
-
+![Sabres](./imagens/9.jpg)
 
 ### Galeria de Símbolos de Star Wars
-
+![Símbolos](./imagens/10.jpg)
 
 
 ## Tecnologias Utilizadas
