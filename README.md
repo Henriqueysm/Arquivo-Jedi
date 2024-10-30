@@ -15,38 +15,31 @@ Você pode acessar o site através deste [link](https://henriqueysm.github.io/Ar
 Abaixo estão algumas imagens mostrando o interior do site:
 
 ### Página Inicial
-![Página Inicial(Imagens do site/1 pagina inicial.jpg)
 
 
 ### Curiosidades 
-![Seção de Curiosidades](![image](https://github.com/user-attachments/assets/85ce6da7-97ee-4859-a236-642246bf79a5))
 
 
 ### A Saga prt1
-![Seção da Saga](Arquivo-Jedi/Imagens do site/3 .jpg)
+
 ### A Saga prt2
-![Seção da Saga(Arquivo-Jedi/Imagens do site/4 a saga2.jpg)
+
 ### A Saga prt3
-!![Seção da Saga(Arquivo-Jedi/Imagens do site/5 a saga 3.jpg)
-### GaA Saga prt4
-![Seção da Saga(Arquivo-Jedi/Imagens do site/6 a saga spin off.jpg)
+
+### A Saga prt4
 
 
 ### Seção de Cronologia
-![Seção de Cronologia](Arquivo-Jedi/Imagens do site/7 cronolog.jpg)
 
 
 ### Galeria de Personagens
-![Galeria de personagens](Arquivo-Jedi/Imagens do site/8 personagens 1.jpg)
-
 
 
 ### Sabres 
-![Seção de sabres](Arquivo-Jedi/Imagens do site/9 sabres.jpg)
 
 
 ### Galeria de Símbolos de Star Wars
-![Galeria de Símbolos](./imagens/10-simbolos.jpg)
+
 
 
 ## Tecnologias Utilizadas
