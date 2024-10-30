@@ -15,7 +15,7 @@ Você pode acessar o site através deste [link](https://henriqueysm.github.io/Ar
 Abaixo estão algumas imagens mostrando o interior do site:
 
 ### Página Inicial
-
+![Página Inicial](./imagens/1.jpg)
 
 ### Curiosidades 
 
